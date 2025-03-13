@@ -1,4 +1,4 @@
-# Portfólio UX/UI Design - Vivian Santos
+# Portfólio UX/UI Design - Vivian da Cunha
 
 Bem-vindo ao meu portfólio de UX/UI Design! Aqui, você encontrará uma seleção dos meus estudos de casos que demonstram minhas habilidades em design de interface de usuário, experiência do usuário, prototipagem, e pesquisa de usuários. Sou uma UX/UI Designer Júnior apaixonada por criar experiências digitais intuitivas e envolventes.
 
